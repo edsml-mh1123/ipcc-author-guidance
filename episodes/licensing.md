@@ -18,6 +18,20 @@ exercises: 1
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- What licenses are required for datasets or data products that are used?
+- What licenses should we apply to created datasets?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: objectives
+
+- Understand how to classify source code and data (input, intermediate assessment, final assessment)
+- Understand recommended licenses for each data type and code
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Introduction
 
 The content of this lesson is taken from the
