@@ -84,7 +84,6 @@ To ensure maximal reusability of source code, similarly to data, code should be 
 copyleft) open source licenses that do not restrict commercial use.
 
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::: challenge
 
 ## Challenge 1: Can you classify the following data types?
@@ -102,7 +101,6 @@ copyleft) open source licenses that do not restrict commercial use.
 3. Model agreement on changes in temperature in a warming scenario: Intermediate
 
 :::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
