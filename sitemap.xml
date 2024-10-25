@@ -1,75 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/01-introduction.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/404.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/404.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/CODE_OF_CONDUCT.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/LICENSE.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/aio.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/aio.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/images.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/images.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/index.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/index.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/01-introduction.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/404.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/LICENSE.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/aio.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/images.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/index.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/instructor-notes.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/introduction.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/introduction.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/key-points.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/profiles.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/markdown.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor/reference.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/instructor-notes.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/reference.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/introduction.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor/tutorial.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/key-points.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/profiles.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/introduction.html</loc>
   </url>
   <url>
-    <loc>https://IPCC-AR7.github.io/ipcc-ar7.github.io/reference.html</loc>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/markdown.html</loc>
+  </url>
+  <url>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://IPCC-AR7.github.io/ipcc-author-guidance/tutorial.html</loc>
   </url>
 </urlset>

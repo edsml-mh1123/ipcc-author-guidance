@@ -15,16 +15,16 @@
 carpentry: 'incubator'
 
 # Alt-text description of the lesson.
-carpentry_description: 'Lesson Description'
+carpentry_description: 'IPCC FAIR Tutorial for Authors'
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'IPCC FAIR Tutorial for Authors' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: ~ # FIXME
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'ipcc, software, data, lesson, The Carpentries' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -34,13 +34,13 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/IPCC-AR7/ipcc-ar7.github.io' # FIXME
+source: 'https://github.com/IPCC-AR7/ipcc-author-guidance' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'april.lamb@ipcc-wg3.gov' # Still need to decide who this should be
 
 # Navigation ------------------------------------------------
 #
@@ -67,6 +67,8 @@ contact: 'team@carpentries.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- tutorial.md
+- markdown.md
 
 # Information for Learners
 learners: 
@@ -81,5 +83,3 @@ profiles:
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
-
-
