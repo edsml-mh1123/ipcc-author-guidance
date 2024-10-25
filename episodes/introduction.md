@@ -1,7 +1,7 @@
 ---
 title: "IPCC FAIR Background"
 teaching: 10
-exercises: 2
+exercises: 2 
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
