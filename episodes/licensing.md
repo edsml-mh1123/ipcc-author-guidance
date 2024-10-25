@@ -3,6 +3,7 @@ title: "Licensing Tutorial"
 teaching: 10
 exercises: 1
 ---
+
 :::::::::::::::::::::::::::::::::::::: questions
 
 - What licenses are required for datasets or data products that are used?
@@ -82,13 +83,8 @@ applicable licenses of input data will apply.
 To ensure maximal reusability of source code, similarly to data, code should be published under permissive (non-
 copyleft) open source licenses that do not restrict commercial use.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ::::::::::::::::::::::::::::::::::::: challenge
 
 ## Challenge 1: Can you classify the following data types?
@@ -106,6 +102,7 @@ associated with the lessons. They appear in the "Instructor View"
 3. Model agreement on changes in temperature in a warming scenario: Intermediate
 
 :::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
