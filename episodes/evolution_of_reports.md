@@ -1,3 +1,9 @@
+---
+title: "Lifecycle of figures in the IPCC Reports"
+teaching: 10
+exercises: 0
+---
+
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - How do figures and figure submission requirements evolve throughout the cycle ?
