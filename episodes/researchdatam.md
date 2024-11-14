@@ -29,7 +29,7 @@ Research Data Management underpins the accuracy, reproducibility, and impact of 
 
 The Turing Way offers a general overview on the purposes and practices that motivates RDM, illustrating guidelines and useful approaches to put that into practice. 
 
-[Reproducible Research according to the Turing Way]([https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp])
+[Reproducible Research according to the Turing Way](https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp)
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
