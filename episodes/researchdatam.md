@@ -6,22 +6,22 @@ exercises: 1
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- What licenses are required for datasets or data products that are used?
-- What licenses should we apply to created datasets?
-
+- What is research data?
+- Why is important to properly describe, protect and share research data?
+  
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Understand how to classify source code and data (input, intermediate assessment, final assessment)
-- Understand recommended licenses for each data type and code
+- Understand the importance of disseminating research data
+- Undertand the benefits of a research data management plan
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ## Introduction
 
-
+[Reproducible Research according to the Turing Way]([https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp])
 ::::::::::::::::::::::::::::::::::::: callout
 
 
