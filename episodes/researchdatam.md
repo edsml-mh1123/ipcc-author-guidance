@@ -38,9 +38,9 @@ For instance some IPCC Working Groups may propose a [Data Management Plan](https
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Software Management 
+## Software Management Plans
 
-Before dwelving into sofware management, it is worth hlighting the differences between Research Code and Research Software. 
+Before diving into Software Management Plans, it is important to highlight the distinctions between research code and research software
 
 **Rresearch Code** is the individual, often experimental, coding work that solves specific problems in the research process, It is often a custom solution developed for a specific research question or experiment. For instance the script used to generate one of the figures in the IPCC reports. 
 
