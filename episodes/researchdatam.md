@@ -51,15 +51,13 @@ Before dwelving into sofware management, it is worth hlighting the differences b
 Key characteristics of **Research Code**
 
 - Custom and Domain-Specific: It is typically tailored to address the unique needs of a particular research task or domain (e.g., bioinformatics, physics simulations, social sciences).
-- Prototyping and Experimentation: Research code is often experimental, evolving during the research process as the researcher tests and refines ideas. This could be in the form of scripts for data collection, analysis, or visualization.
-- Rapid Development: Researchers often write code quickly and iteratively to meet the immediate demands of their experiments. and shared via Open-source platforms like GitHub, GitLab.
-- Reproducible: In many cases, research code is shared openly to promote reproducibility and transparency. Open-source platforms like Jupyter Lab, Reproducible: In many cases, research code is shared openly to promote reproducibility and transparency. Open-source platforms like GitHub, GitLab, and Bitbucket are commonly used for sharing and collaborating on research code. Scripts my be expresssed as Jupyter Notebooks and re-executed in Jupyter platforms like Jupyter Lab, Jupyter Hub or Binder.
+- Prototyping and Experimentation: Often experimental, evolving during the research process as the researcher tests and refines ideas. This could be in the form of scripts for data collection, analysis, or visualization.
+- Reproducible: In many cases, research code is shared openly to promote reproducibility and transparency. Open-source platforms like GitHub, GitLab, and Bitbucket are commonly used for sharing and collaborating on research code. Scripts my be expresssed as Jupyter Notebooks and re-executed in Jupyter platforms like Jupyter Lab, Jupyter Hub or Binder.
 
 Key characteristics of **Research Sofware**
 
-- Comprehensive and integrated, supporting tasks like data management, analysis, and visualization, often with a user-friendly interface.
-- Production-ready, stable, and maintainable, featuring error handling and documentation. It can be domain-specific (e.g., statistical tools, simulation platforms) or general-purpose (e.g., text editors, database systems) and is widely used in research.
-- Collaboration and sharing, such as through platforms like LaTeX or tools like SPSS, MS Excel, or Tableau for data analysis.
+- Comprehensive and integrated: supporting tasks like data management, analysis, and visualization, often with a user-friendly interface. For instance, tools like SPSS, MS Excel, or Tableau.
+- Production-ready: stable, and maintainable, featuring error handling and documentation. It can be domain-specific (e.g., statistical tools, simulation platforms) or general-purpose (e.g., text editors, database systems) and is widely used in research.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
