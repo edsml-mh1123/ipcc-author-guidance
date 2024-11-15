@@ -66,7 +66,7 @@ Some working groups may consdier to propose a Software Management Plan. This is 
 - Who is responsible?
 - What licence does it needs?
 
-Having such clarity early on, avoid problems later, with the objective of facilitatng IPCC to deliver [FAIR code and software](https://www.rug.nl/digital-competence-centre/research-data/research-software-management/fair-research-software?lang=en). Example of SMPs exists in many organisations. A detailed list of elements that are relevant in the defintion of [SMP for Research Code and Software](https://esciencecenter-digital-skills.github.io/research-software-support/modules/softwaremanagementplans/slides-smp) is provided by the Duth insitute for eScience.
+Having such clarity early on, avoid problems later, with the objective of facilitatng IPCC to deliver [FAIR code and software](https://www.rug.nl/digital-competence-centre/research-data/research-software-management/fair-research-software?lang=en). Example of SMPs exists in many organisations. A detailed list of elements that are relevant in the defintion of [SMP for Research Code and Software](https://esciencecenter-digital-skills.github.io/research-software-support/modules/softwaremanagementplans/slides-smp) is provided by the Dutch insitute for eScience.
 
 In IPCC, SMPs can have the scope to define key aspects which should be taken into account by the authors, depending whether they will develop and release simple scripts, for data analysis and visualisation purposes, or more complex Research Software, like for instance a new [IPCC Atlas](https://interactive-atlas.ipcc.ch/).
 
