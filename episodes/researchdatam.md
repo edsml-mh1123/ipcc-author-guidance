@@ -42,11 +42,9 @@ For instance some IPCC Working Groups may propose a [Data Management Plan](https
 
 Before dwelving into sofware management, it is worth hlighting the differences between Research Code and Research Software. 
 
-**Rresearch Code** is the individual, often experimental, coding work that solves specific problems in the research process, It is often a custom solution developed for a specific research question or experiment. For instance the scripts used to generate one of the figures in the IPCC reports. 
+**Rresearch Code** is the individual, often experimental, coding work that solves specific problems in the research process, It is often a custom solution developed for a specific research question or experiment. For instance the script used to generate one of the figures in the IPCC reports. 
 
-**Research Software** is a broader, often more stable tool or platform that assists in conducting research across various stages of the workflow. Both are critical components of modern research, with research code often contributing to the development of research software. Eg. the ESMVal Tool
-
-::::::::::::::::::::::::::::::::::::: callout
+**Research Software** is a broader, often more stable tool or platform that assists in conducting research across various stages of the workflow. Both are critical components of modern research, with research code often contributing to the development of research software. Eg. the [ESMVal Tool](https://esmvaltool.org/)
 
 Key characteristics of **Research Code**
 
@@ -59,23 +57,33 @@ Key characteristics of **Research Sofware**
 - Comprehensive and integrated: supporting tasks like data management, analysis, and visualization, often with a user-friendly interface. For instance, tools like SPSS, MS Excel, or Tableau.
 - Production-ready: stable, and maintainable, featuring error handling and documentation. It can be domain-specific (e.g., statistical tools, simulation platforms) or general-purpose (e.g., text editors, database systems) and is widely used in research.
 
+::::::::::::::::::::::::::::::::::::: callout
+Some working groups may consdier to propose a Software Management Plan. This is usually a document that addresses questions such as.
+
+- What does it do?
+- Who is it for?
+- What resources does it need?
+- Who is responsible?
+- What licence does it needs?
+
+Having such clarity early on, avoid problems later, with the objective of facilitatng IPCC to deliver [FAIR code and software](https://www.rug.nl/digital-competence-centre/research-data/research-software-management/fair-research-software?lang=en)
+
+This will have the scope to define key aspects which should be taken into account by IPCC authors, depending whether they will develop and release simple scripts, for data analysis and visualisation purposes, or more complex Research Software, like for instance a new [Atlas](https://interactive-atlas.ipcc.ch/).
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Challenge 1: Can you classify the following software types?
 ::::::::::::::::::::::::::::::::::::: challenge
 
-## Challenge 1: Can you classify the following data types?
 
-1. A map used in the report
-2. Output from a CMIP6 model
-3. Model agreement on changes in temperature in a warming scenario
 
+1. 
+2. 
 :::::::::::::::::::::::: solution
 
 ## Output
 
-1. A map used in the report: Final
-2. Output from a CMIP6 model: Input
-3. Model agreement on changes in temperature in a warming scenario: Intermediate
+1. 
 
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
