@@ -34,7 +34,7 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/aspinuso/ipcc-author-guidance' # FIXME
+source: 'https://github.com/IPCC-AR7/ipcc-author-guidance' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
