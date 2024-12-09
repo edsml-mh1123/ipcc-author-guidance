@@ -67,6 +67,7 @@ contact: 'april.lamb@ipcc-wg3.gov' # Still need to decide who this should be
 # Order of episodes in your lesson
 episodes:
 - introduction.md
+- researchdatam.md
 - tutorial.md
 - markdown.md
 - evolution_of_reports.md
