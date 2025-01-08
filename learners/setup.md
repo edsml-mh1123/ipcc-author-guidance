@@ -64,6 +64,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 Now that `brew` is installed and set up, we can use it to install some useful packages. From next week you'll be using `git` extensively so lets first install that.
 
 **Git**
+
 ```bash
 brew install git
 ```
@@ -75,11 +76,13 @@ git config --global user.email "youremail@domain.com"
 where `Your Name` and `youremail@domain.com` should be replaced with your `GitHub` username and associated email address respectively.
 
 **Miniconda**
+
 Lets next install [Miniconda](https://docs.conda.io/en/latest/miniconda.html). (We'll learn more about this package next week).
 ```bash
 brew install miniconda
 ```
 **Conda**
+
 Next we need to update `conda`
 ```
 conda update conda
