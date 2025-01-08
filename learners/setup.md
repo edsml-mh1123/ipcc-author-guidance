@@ -53,9 +53,6 @@ echo |/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 
 You will be asked to enter your password after the first command. Homebrew will install after the second.
 
-
-You may be asked to access the Terminal on other occasions during the course, so it's work spending a second or two to remember where it lives. You can also secondary click (using two fingers, or the Option key) on the icon in the dock and select `Options > Keep in Dock` from the menu bar so that it is always readily available. 
-
 When Homebrew finishes installing it recommends you run two commands to activate it, and to ensure it's automatically available whenever you open a Terminal window.
 
 ```bash
@@ -66,6 +63,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 Now that `brew` is installed and set up, we can use it to install some useful packages. From next week you'll be using `git` extensively so lets first install that.
 
+**Git**
 ```bash
 brew install git
 ```
@@ -76,10 +74,12 @@ git config --global user.email "youremail@domain.com"
 ```
 where `Your Name` and `youremail@domain.com` should be replaced with your `GitHub` username and associated email address respectively.
 
+**Miniconda**
 Lets next install [Miniconda](https://docs.conda.io/en/latest/miniconda.html). (We'll learn more about this package next week).
 ```bash
 brew install miniconda
 ```
+**Conda**
 Next we need to update `conda`
 ```
 conda update conda
@@ -91,39 +91,6 @@ conda init zsh
 ```
 and restart the terminal.
 
-We'll now use Miniconda to create the `ese-msc` environment. You'll make use of this environment during next week's lectures. Note that for the time being, you can simply
-follow the instructions below and ensure that each step completes without error (i.e. there's no need to understand exactly what is going on) - you'll learn more
-about Python environments during next week's lectures.
-
-To start, let's use `git` to clone the repository containing the material for next week's lectures. Navigate to/create a folder where you want to store the lecture material.
-When in the desired location ACSE students should run:
-```
-git clone https://github.com/ese-msc-2023/modern-programming-methods.git
-```
-EDSML and GEMS students:
-```
-git clone https://github.com/ese-msc-2023/numerical-programming-in-python.git
-```
-Note that when prompted to enter your username and password, the password is **not** your GitHub account password but a 'personal access token' created with suitable permissions. Instructions for creating a personal access token can be found [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
-
-This repository contains an `environment.yml` file for building the `conda` environment. Navigate into the repository (e.g. `cd modern-programming-methods`). ACSE students should then run
-```
-conda env create -f environment.yml
-conda activate ese-msc
-```
-ESML and GEMS students should run
-```
-conda env create -f environment.yml
-conda activate npp
-```
-You should now see the environment name displayed on the left hand side of the terminal, e.g.
-
-![](images/mac/mac_term.png)
-
-Note that to deactivate an environment you can run
-```
-conda deactivate
-```
 
 ### Visual Studio Code
 
